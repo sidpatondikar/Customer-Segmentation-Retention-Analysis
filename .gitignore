@@ -1,0 +1,44 @@
+# Data
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.xls
+data/processed/*.csv
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+cust/
+src/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# BI Files
+dashboards/*.twb
+dashboards/*.twbx
+dashboards/*.pbix
+
+# Streamlit
+.streamlit/secrets.toml
