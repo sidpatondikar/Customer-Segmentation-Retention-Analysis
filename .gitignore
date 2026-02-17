@@ -25,6 +25,7 @@ build/
 venv/
 env/
 cust/
+.claude/
 src/
 .venv/
 
